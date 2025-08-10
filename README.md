@@ -4,6 +4,10 @@ Advanced SQL and ML analytics for Amazon e-commerce data
 
 A comprehensive data analytics project analyzing Amazon e-commerce data using advanced SQL queries, machine learning recommendation systems, and business intelligence dashboards.
 
+An ERD diagram is included to visually represent the database schema and relationships between tables
+
+<img width="1430" height="778" alt="Amazon ERD" src="https://github.com/user-attachments/assets/b08181e2-967a-4dc5-8965-479a82f62853" />
+
 ## Project Overview
 
 This project demonstrates end-to-end data analysis of an Amazon-like e-commerce platform, covering:
